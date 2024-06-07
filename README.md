@@ -6,7 +6,7 @@ Here is a list of diseases that can be classified using this CNN model:
 3. Powdery Mildew
 
 ## Models performance:
-![models-performance](/models_performance.png)
+<img src="/models_performance.png" width="500" height="400">
 
 ## Link to the dataset: 
 https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset/data
