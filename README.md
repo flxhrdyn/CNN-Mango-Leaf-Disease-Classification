@@ -5,10 +5,13 @@ Here is a list of diseases that can be classified using this CNN model:
 2. Bacterial Canker
 3. Powdery Mildew
 
-## Link to the dataset : 
+## Models performance:
+![alt text](http://https://github.com/flxhrdyn/CNN-Mango-Leaf-Disease-Classification/blob/main/models_performance.png)
+
+## Link to the dataset: 
 https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset/data
 
-## Sources and Refrences :
+## Sources and references:
 - Model 1:
   Fitrianingsih, F. dan Rodiah, R. 2021. Klasifikasi Jenis Citra Daun Mangga Menggunakan Convolutional Neural Network. Jurnal Ilmiah Teknologi dan Rekayasa, 25(3), pp.223-238.
 - Model 2:
